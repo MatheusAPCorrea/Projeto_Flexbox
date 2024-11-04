@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de treinamento de FLEXBOX
 
-![image](https://github.com/user-attachments/assets/927c929f-fd0e-4646-b02f-98bc7fe12335)
+![image](https://github.com/user-attachments/assets/29f1177b-98b4-46f9-beac-7f93b0bd9d09)
 
 
 ## Ferramentas utilizadas:
